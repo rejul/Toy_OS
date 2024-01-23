@@ -15,10 +15,10 @@ x86_bootloader MBR Bootloader written on Assembly
 
 Download QEMU [qemu](https://www.qemu.org/)
 
-
+In Command line
 
 ```
-CMD
+
 ./qemu-system-x86_64.exe -fda "file_path_to_qemu\main-floppy.img"
 
 ```
