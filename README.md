@@ -7,8 +7,8 @@
 
 x86_bootloader MBR Bootloader written on Assembly
 
-#Currently implemented
-  *bootloader
+##Currently Implementation
+   -bootloader only
 
 
 ## Installation
