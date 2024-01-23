@@ -10,6 +10,10 @@ x86_bootloader MBR Bootloader written on Assembly
 ##Currently Implementation
    -bootloader only
 
+```
+use 'make' command to build (using wsl)
+```
+
 
 ## Installation
 
@@ -18,6 +22,7 @@ Download QEMU [qemu](https://www.qemu.org/)
 In Command line
 
 ```
+
 cd file_path_to_qemu
 ./qemu-system-x86_64.exe -fda "file_path_build_/main_floppy.img"
 
