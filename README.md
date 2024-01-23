@@ -18,7 +18,7 @@ Download QEMU [qemu](https://www.qemu.org/)
 In Command line
 
 ```
-
-./qemu-system-x86_64.exe -fda "file_path_to_qemu\main-floppy.img"
+cd file_path_to_qemu
+./qemu-system-x86_64.exe -fda "file_path_build_/main_floppy.img"
 
 ```
